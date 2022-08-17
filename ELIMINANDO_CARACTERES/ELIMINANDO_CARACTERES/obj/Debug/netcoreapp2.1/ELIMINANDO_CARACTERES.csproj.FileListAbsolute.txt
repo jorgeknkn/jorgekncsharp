@@ -1,0 +1,11 @@
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.deps.json
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.runtimeconfig.json
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.runtimeconfig.dev.json
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.dll
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.pdb
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.csprojAssemblyReference.cache
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.csproj.CoreCompileInputs.cache
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.AssemblyInfoInputs.cache
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.AssemblyInfo.cs
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.dll
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ELIMINANDO_CARACTERES.pdb

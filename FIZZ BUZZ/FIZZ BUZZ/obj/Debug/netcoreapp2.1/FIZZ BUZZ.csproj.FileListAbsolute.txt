@@ -1,0 +1,11 @@
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\bin\Debug\netcoreapp2.1\FIZZ BUZZ.deps.json
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\bin\Debug\netcoreapp2.1\FIZZ BUZZ.runtimeconfig.json
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\bin\Debug\netcoreapp2.1\FIZZ BUZZ.runtimeconfig.dev.json
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\bin\Debug\netcoreapp2.1\FIZZ BUZZ.dll
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\bin\Debug\netcoreapp2.1\FIZZ BUZZ.pdb
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\obj\Debug\netcoreapp2.1\FIZZ BUZZ.csprojAssemblyReference.cache
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\obj\Debug\netcoreapp2.1\FIZZ BUZZ.csproj.CoreCompileInputs.cache
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\obj\Debug\netcoreapp2.1\FIZZ BUZZ.AssemblyInfoInputs.cache
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\obj\Debug\netcoreapp2.1\FIZZ BUZZ.AssemblyInfo.cs
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\obj\Debug\netcoreapp2.1\FIZZ BUZZ.dll
+C:\Users\cmbouser\Documents\Visual Studio 2017\Projects\FIZZ BUZZ\FIZZ BUZZ\obj\Debug\netcoreapp2.1\FIZZ BUZZ.pdb

@@ -1,0 +1,11 @@
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\bin\Debug\netcoreapp2.1\ARMSTRONG.deps.json
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\bin\Debug\netcoreapp2.1\ARMSTRONG.runtimeconfig.json
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\bin\Debug\netcoreapp2.1\ARMSTRONG.runtimeconfig.dev.json
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\bin\Debug\netcoreapp2.1\ARMSTRONG.dll
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\bin\Debug\netcoreapp2.1\ARMSTRONG.pdb
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\obj\Debug\netcoreapp2.1\ARMSTRONG.csprojAssemblyReference.cache
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\obj\Debug\netcoreapp2.1\ARMSTRONG.csproj.CoreCompileInputs.cache
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\obj\Debug\netcoreapp2.1\ARMSTRONG.AssemblyInfoInputs.cache
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\obj\Debug\netcoreapp2.1\ARMSTRONG.AssemblyInfo.cs
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\obj\Debug\netcoreapp2.1\ARMSTRONG.dll
+C:\home\repositorio\ARMSTRONG\ARMSTRONG\ARMSTRONG\obj\Debug\netcoreapp2.1\ARMSTRONG.pdb

@@ -1,0 +1,11 @@
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\obj\Debug\netcoreapp2.1\PALÍNDROMO.csprojAssemblyReference.cache
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\obj\Debug\netcoreapp2.1\PALÍNDROMO.csproj.CoreCompileInputs.cache
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\obj\Debug\netcoreapp2.1\PALÍNDROMO.AssemblyInfoInputs.cache
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\obj\Debug\netcoreapp2.1\PALÍNDROMO.AssemblyInfo.cs
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\bin\Debug\netcoreapp2.1\PALÍNDROMO.deps.json
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\bin\Debug\netcoreapp2.1\PALÍNDROMO.runtimeconfig.json
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\bin\Debug\netcoreapp2.1\PALÍNDROMO.runtimeconfig.dev.json
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\bin\Debug\netcoreapp2.1\PALÍNDROMO.dll
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\bin\Debug\netcoreapp2.1\PALÍNDROMO.pdb
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\obj\Debug\netcoreapp2.1\PALÍNDROMO.dll
+C:\home\repositorio\PALINDROMO\PALÍNDROMO\PALÍNDROMO\obj\Debug\netcoreapp2.1\PALÍNDROMO.pdb

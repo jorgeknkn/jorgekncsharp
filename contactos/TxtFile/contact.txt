@@ -1,0 +1,24 @@
+﻿[
+  {
+    "Extension": "31134",
+    "Depto": "TI",
+    "Cargo": "Gerente",
+    "Id": "5e5ccb2c-176a-4e87-8fd2-ec7151ef0e14",
+    "Nombre": "Eduardo",
+    "Apaterno": "Avendaño",
+    "Amaterno": null,
+    "FechaNacimiento": null,
+    "NombreCompleto": "Eduardo Avendaño "
+  },
+  {
+    "Extension": "31110",
+    "Depto": "Administración",
+    "Cargo": "Facturación/Cobranza",
+    "Id": "e99bf257-10a0-4729-bf85-34b5af49300f",
+    "Nombre": "Namy",
+    "Apaterno": "Arana",
+    "Amaterno": null,
+    "FechaNacimiento": null,
+    "NombreCompleto": "Namy Arana "
+  }
+]
